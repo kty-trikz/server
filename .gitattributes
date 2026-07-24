@@ -1,0 +1,4 @@
+* text=auto eol=lf
+
+/** linguist-vendored=true
+*.sh linguist-vendored=false
