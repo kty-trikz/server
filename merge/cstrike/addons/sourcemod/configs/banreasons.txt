@@ -1,0 +1,4 @@
+"banreasons"
+{
+    "Silly" "You're so fawking silly, don't join again!"
+}
